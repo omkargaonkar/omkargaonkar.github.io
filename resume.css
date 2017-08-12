@@ -1,0 +1,141 @@
+/* HR TAG */
+#firsthr
+{
+  background-color:#C2331A;
+  height:38px;
+}
+#secondhr
+{
+  background-color: #C2331A;
+  height: 3px;
+  margin-top: -21px;
+  width: 1068px;
+  padding: left;
+  margin-left: 441px
+}
+#thirdhr
+{
+  background-color: #C2331A;
+  height: 3px;
+  margin-top: -21px;
+  width: 1068px;
+  padding: left;
+  margin-left: 441px
+}
+#fourthhr
+{
+  background-color: #C2331A;
+  height: 3px;
+  margin-top: -21px;
+  width: 1068px;
+  padding: left;
+  margin-left: 441px
+}
+#fifthhr
+{
+  background-color: #C2331A;
+  height: 3px;
+  margin-top: -21px;
+  width: 1068px;
+  padding: left;
+  margin-left: 441px
+
+}
+#sixhr
+{
+  background-color:#C2331A;
+  height:38px;
+}
+/* HR TAG <- */
+
+/*images -> */
+#profileimage {
+    border-radius: 50%;
+    background-color:#C2331A;
+    height: 267px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+/*images <- */
+
+#lablefirst
+{
+   font-size:36px;
+   margin-top: 74px;
+   margin-left: 241px;
+   font-family:'Gruppo', cursive;
+}
+.classfirst
+{
+  margin-top: -270px;
+  margin-left: 479px;
+}
+.classsecond
+{
+  margin-top: 49px;
+  margin-left: 1230px;
+}
+.classthird
+ {
+    margin-top: 146px;
+}
+.classfourth
+{
+    margin-left: 516px;
+    font-size: 30px;
+
+}
+/*class first -> */
+#lableten
+{
+   font-size: 26;
+   font-family: 'Orbitron', sans-serif;"
+}
+
+#lableoneone
+{
+  font-size: 26;
+  color:red;
+  font-family: 'Orbitron', sans-serif;"
+}
+#lableonetwo
+{
+  font-size: 26;
+  font-family: 'Gruppo',
+  cursive; font-family: 'Six Caps', sans-serif;
+  font-family: 'Scada', sans-serif;
+}
+/*class first <- */
+
+#profilelable
+{
+  font-size: 40px;
+  margin-left: 267px;
+
+}
+#personaldetailslable {
+    font-size: 40px;
+    margin-left: 46px;
+}
+#technicalskilllable {
+    font-size: 40px;
+    margin-left: 51px;
+}
+#educationlable {
+    font-size: 40px;
+    margin-left: 195px;
+}
+#datapersonaldetails {
+     margin-left: 492px;
+    font-size: 23px;
+}
+#datatechnical {
+    margin-left: 490px;
+    font-size: 23px;
+}
+#dataeducation {
+    margin-left: 532px;
+    font-size: 24px;
+    margin-top: 41px;
+    margin-bottom: 103px;
+}
