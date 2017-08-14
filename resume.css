@@ -6,7 +6,7 @@ body
 .firstbody {
     width: 100%;
 }
-div#maindiv {
+#maindiv {
     margin-left: 2%;
     margin-right: 2%;
     /* text-align: center; */
@@ -89,10 +89,14 @@ div#maindiv {
   margin-top: -270px;
   margin-left: 479px;
 }
-.classsecond
-{
-  margin-top: 49px;
-  margin-left: 1230px;
+.classsecond {
+    /* font-size: 21px; */
+    font-size: 20px;
+        margin-top: -170px;
+    margin-left: 1080px;
+    font-family: 'Stint Ultra Expanded', cursive;
+
+
 }
 .classthird
  {
@@ -104,30 +108,43 @@ div#maindiv {
     font-size: 30px;
 
 }
+#phonelable {
+    margin-left: 132px;
+    margin-top: -31px;
+}
+#email {
+    margin-top: 20px;
+    margin-left: 10;
+    margin-bottom: 31px;
+}
+#website {
+    margin-top: 23px;
+    margin-left: 23px;
+}
 /*class first -> */
 #lableten
 {
-   font-size: 26;
-   font-family: 'Orbitron', sans-serif;"
+   font-size: 100;
+  font-family: 'Saira Extra Condensed', sans-serif;
 }
 
 #lableoneone
 {
-  font-size: 26;
-  color:red;
-  font-family: 'Orbitron', sans-serif;"
+  font-size: 100;
+  color: #C2331A;
+  font-family: 'Saira Extra Condensed', sans-serif;
+
 }
 #lableonetwo
 {
   font-size: 26;
-  font-family: 'Gruppo',
-  cursive; font-family: 'Six Caps', sans-serif;
-  font-family: 'Scada', sans-serif;
+  font-family: 'Krona One', sans-serif;
 }
 /*class first <- */
 
 #profilelable
 {
+
     float: left;
   font-size: 40px;
   margin-left: 267px;
@@ -159,6 +176,18 @@ div#maindiv {
 #dataeducation {
     margin-left: 532px;
     font-size: 24px;
-    margin-top: 41px;
+        margin-top: -285px;
     margin-bottom: 103px;
+}
+#degree {
+  font-size: 34px;
+  margin-left: 174px;
+margin-top: 115px;
+  font-family: 'Pavanam', sans-serif;
+}
+#lablegaonkar {
+    margin-top: -72px;
+}
+#lablesoftware {
+    margin-top: -33px;
 }
