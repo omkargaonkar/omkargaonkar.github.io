@@ -11,9 +11,6 @@ div#maindiv {
     margin-right: 2%;
     /* text-align: center; */
 }
-
-
-
 /* HR TAG */
 #firsthr
 {
@@ -25,7 +22,7 @@ div#maindiv {
   background-color: #C2331A;
   height: 3px;
   margin-top: -21px;
-  width: 1068px;
+  width: 100%;
   padding: left;
   margin-left: 441px
 }
@@ -34,7 +31,7 @@ div#maindiv {
   background-color: #C2331A;
   height: 3px;
   margin-top: -21px;
-  width: 1068px;
+  width: 100%;
   padding: left;
   margin-left: 441px
 }
@@ -43,7 +40,7 @@ div#maindiv {
   background-color: #C2331A;
   height: 3px;
   margin-top: -21px;
-  width: 1068px;
+  width: 100%;
   padding: left;
   margin-left: 441px
 }
@@ -52,7 +49,7 @@ div#maindiv {
   background-color: #C2331A;
   height: 3px;
   margin-top: -21px;
-  width: 1068px;
+  width: 100%;
   padding: left;
   margin-left: 441px
 
