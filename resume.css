@@ -22,7 +22,7 @@ body
 {
   background-color: #C2331A;
   height: 3px;
-  margin-top: -21px;
+  margin-top: -33px;
   width: 71%;
   padding: left;
   float: left;
@@ -30,10 +30,11 @@ body
 }
 #thirdhr
 {
+      MARGIN-BOTTOM: 37px;
   background-color: #C2331A;
     float: left;
   height: 3px;
-  margin-top: -21px;
+  margin-top: -33px;
   width: 71%;
   padding: left;
   margin-left: 441px
@@ -43,7 +44,7 @@ body
       float: left;
   background-color: #C2331A;
   height: 3px;
-  margin-top: -21px;
+  margin-top: -33px;
   width: 71%;
   padding: left;
   margin-left: 441px
@@ -53,7 +54,7 @@ body
       float: left;
   background-color: #C2331A;
   height: 3px;
-  margin-top: -21px;
+  margin-top: -33px;
   width: 71%;
   padding: left;
   margin-left: 441px
@@ -72,7 +73,7 @@ body
     border-radius: 50%;
     background-color:#C2331A;
     height: 267px;
-    margin-left: 80px;
+    margin-left: 110px;
     margin-top: 50px;
 }
 /*images <- */
@@ -102,11 +103,10 @@ body
  {
     margin-top: 146px;
 }
-.classfourth
-{
+.classfourth {
+    font-family: 'Stint Ultra Expanded', cursive;
     margin-left: 516px;
-    font-size: 30px;
-
+    font-size: 26px;
 }
 #phonelable {
     margin-left: 132px;
@@ -148,46 +148,78 @@ body
     float: left;
   font-size: 40px;
   margin-left: 267px;
+  font-family: 'Saira Extra Condensed', sans-serif;
 
 }
 #personaldetailslable {
     float: left;
     font-size: 40px;
-    margin-left: 46px;
+    margin-left: 150px;
+    font-family: 'Saira Extra Condensed', sans-serif;
 }
 #technicalskilllable {
     float: left;
     font-size: 40px;
-    margin-left: 51px;
+    margin-left: 165px;
+    font-family: 'Saira Extra Condensed', sans-serif;
 }
 #educationlable {
     float: left;
     font-size: 40px;
-    margin-left: 195px;
+    margin-left: 239px;
+    font-family: 'Saira Extra Condensed', sans-serif;
 }
 #datapersonaldetails {
+  font-family: 'Stint Ultra Expanded', cursive;
      margin-left: 492px;
-    font-size: 23px;
+      font-size: 20px;
 }
 #datatechnical {
+  font-family: 'Stint Ultra Expanded', cursive;
     margin-left: 490px;
-    font-size: 23px;
+      font-size: 20px;
 }
 #dataeducation {
+  font-family: 'Krona One', sans-serif;
     margin-left: 532px;
-    font-size: 24px;
-        margin-top: -285px;
+      font-size: 20px;
+        margin-top: -230px;
     margin-bottom: 103px;
 }
+#sinlab {
+    margin-bottom: 50px;
+}
+#instlab {
+    margin-bottom: 50px;
+}
+#engglable {
+    margin-left: 17px;
+}
 #degree {
-  font-size: 34px;
+  color: #C2331A;
+  font-size: 25px;
   margin-left: 174px;
 margin-top: 115px;
   font-family: 'Pavanam', sans-serif;
+}
+#bepluslable {
+    margin-left: -54px;
+}
+#diplomalable {
+    margin-left: -104px;
+    margin-top: 25px;
+}
+#ssclab {
+    margin-left: 119px;
+    margin-top: 22px;
 }
 #lablegaonkar {
     margin-top: -72px;
 }
 #lablesoftware {
     margin-top: -33px;
+}
+
+div#informationlable {
+    margin-left: 69px;
 }
