@@ -60,8 +60,14 @@ body
   margin-left: 441px
 
 }
+sixhr {
+    margin-top: 30%;
+}
+
+
 #sixhr
 {
+
   background-color:#C2331A;
   height:38px;
   width: 100%;
@@ -226,4 +232,7 @@ div#informationlable {
 a {
     margin-left: 27%;
     /* margin-top: 11%; */
+}
+hr#sixhr {
+    margin-top: 30%;
 }
